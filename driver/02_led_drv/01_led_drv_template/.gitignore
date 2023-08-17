@@ -1,0 +1,4 @@
+# Ignore hidden files and folders
+.*
+!.gitignore  # Allow .gitignore to be tracked
+

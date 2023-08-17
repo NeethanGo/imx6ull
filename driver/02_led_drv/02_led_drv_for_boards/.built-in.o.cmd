@@ -1,1 +1,0 @@
-cmd_/home/neethan/workspace/imx6ull/testDriver/02_led_drv/02_led_drv_for_boards/built-in.o :=  rm -f /home/neethan/workspace/imx6ull/testDriver/02_led_drv/02_led_drv_for_boards/built-in.o; arm-buildroot-linux-gnueabihf-ar rcsD /home/neethan/workspace/imx6ull/testDriver/02_led_drv/02_led_drv_for_boards/built-in.o
