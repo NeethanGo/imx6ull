@@ -1,0 +1,11 @@
+// 100ask_imx6ull-sdk/Linux-4.9.88/arch/arm/boot/dts/100ask_imx6ull-14x14.dts
+
+#define GROUP_PIN(g,p) ((g<<16) | (p))
+
+/ {
+
+    100ask_led@0 {
+        compatible = "imx6ull,led";
+        pin = <GROUP_PIN(3, 1)>;
+    };
+}
