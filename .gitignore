@@ -1,4 +1,4 @@
-.tmp_versions
-.*.ko.cmd
-.*.mod.o.cmd
-.*.o.cmd
+.tmp_versions/
+*.ko.cmd
+*.mod.o.cmd
+*.o.cmd
